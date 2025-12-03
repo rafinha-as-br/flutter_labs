@@ -1,0 +1,5 @@
+bricks:
+  flutter_cas:
+    path: flutter_clean_arch_structure
+  flutter_cafs:
+    path: flutter_clean_arch_feature_structure
