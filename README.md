@@ -1,16 +1,10 @@
-# flutterlabs
+# Flutter labs
 
-A new Flutter project.
+A laboratory that contains all the features that i known how to make
 
-## Getting Started
+## Firebase -> Auth feature
 
-This project is a starting point for a Flutter application.
+In this feature, all the login methods are integrated with the firebase authentication methods
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Where I am by the moment -> Doing more adjustments to the bricks, developing base things for future
+firebase integration
