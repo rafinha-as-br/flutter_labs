@@ -1,7 +1,7 @@
 import 'package:shared_preferences/shared_preferences.dart';
 
-/// this is the main service preferences, it contains the basic methods to
-/// persist shared preferences inside the app
+/// this is the main service preferences, it contains the methods to persist
+/// shared preferences inside the app
 class PreferencesService{
 
   static PreferencesService? _instance;
